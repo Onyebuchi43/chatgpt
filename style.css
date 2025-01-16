@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+
+*{
+    font-family: "Manrope", sans-serif;
+}
+body {
+    background: #040C18;
+    background: rgb(0,40,83);
+    background: linear-gradient(90deg, rgba(0,40,83,1) 0%, rgba(4,12,24,1) 27%);
+    z-index: 3;
+    position: relative;
+}
+.row {
+    margin: 0;
+}
+a {
+    color: #FFFFFF !important;
+}
+nav {
+    background: inherit;
+}
+.navbar-brand {
+    font-weight: 700;
+}
+.collapse {
+    font-weight: 300;
+    font-size: 15px;
+}
+.sign-up-btn {
+    border-color: #FF4820;
+    background-color: #FF4820;
+    width: 120px;
+    height: 45px;
+    line-height: 1.5;
+}
+.header-left h1 {
+    font-weight: 700;
+    font-size: 45px;
+    background: -webkit-linear-gradient(45deg, #AE67FA, #FF7098, #F49867); 
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.col-sm-12  {
+    font-weight: 400;
+    color: #81AFDD;
+}
+.input-group,.form-control {
+    width: 485px;
+    height: 70px;
+}
+.form-control {
+    background-color: #052D56;
+}
+.get-started-btn {
+    outline: none;
+    border-color: #FF4820;
+    background-color: #FF4820;
+    height: 70.1px;
+    width: 154px;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+}
+.user-visits-img {
+    width: 180px;
+    height: 38px;
+}
+.user-visits p {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 12px;
+    margin-top: 10px;
+    padding-left: 15px;
+}
+.header-right-img {
+    width: 500px;
+    height: 500px;
+}
+.companies-logo {
+    width: 450px;
+    height: 24px;
+    text-align: center;
+}
+.what-is-gpt-3 h6 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.what-is-gpt-3 {
+    margin-top: 30px;
+}
+.what-is-gpt-3 p {
+    color: #81AFDD;
+}
+.mask-group {
+    background: linear-gradient(to bottom, #0B1D46, #203D80); 
+    min-height: 60vh;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+*{
+    box-sizing: border-box;
+}
+
+.possibilities {
+    margin-top: 40px;
+}
+.possibilities h3 {
+    background: -webkit-linear-gradient(45deg, #AE67FA, #FF7098, #F49867); 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+.possibilities p {
+    color: #FF8A71;
+}
+.chatbots,.knowledgebase,.education {
+    margin-top: 40px; 
+}
+.chatbots h5,.knowledgebase h5,.education h5 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 15px;
+}
+.exlpanation p,.content-3 p {
+    font-weight: 400;
+    font-size: 15px;
+}
+.features-1 h5 {
+    font-weight: 700;
+    font-size: 22px;
+    margin-bottom: 30px;
+    background: -webkit-linear-gradient(45deg, #AE67FA, #FF7098, #F49867); 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+.features-1 p {
+    font-weight: 500;
+    font-size: 10px;
+    color:#FF8A71;
+}
+
+.features-2 ul h6 {
+    margin-bottom: 35px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 15px;
+}
+.features-3 {
+    font-weight: 500;
+    font-size: 12px;
+}
+.features-3 ul p {
+    margin-bottom: 39px;
+}
+.my-apps-img{
+    width: 350px;
+    height: 350px;
+}
+.early-access-right {
+    margin-top: 150px;
+}
+.early-access-right h6 {
+    color: #71E5FF;
+    font-weight: 400;
+    font-size: 12px;
+}
+.early-access-right h4 {
+    background: -webkit-linear-gradient(45deg, #AE67FA, #FF7098, #F49867); 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+.early-access-right  {
+    color: #81AFDD;
+    font-weight: 300;
+    font-size: 12px;
+}
+.early-p {
+    color: #FF8A71;
+}
+
+.gradient-banner {
+ background: linear-gradient(45deg, #6a11cb, #ff6f61);
+ color: white; 
+ text-align: center; 
+ padding: 40px 20px; 
+ border-radius: 8px; 
+ margin: 80px 0 20px 0;
+ height: 150px;
+} 
+ .gradient-banner .btn { 
+    background-color: black; 
+    color: white; 
+    border: none; 
+}
+.gradient-banner .btn:hover {
+    background-color: #333; 
+}
+.banner-btn-get-started {
+    margin-top: -80px;
+    border: 20px;
+    border-radius: 30px;
+    width: 130px;
+    height: 50px;
+}
+.blog,.blog h1 {
+    background: -webkit-linear-gradient(45deg, #AE67FA, #FF7098, #F49867); 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 52px;
+}
+.banner-left h4 {
+    color: #000000;
+    font-weight: 800;
+    font-size: 20px;
+}
+.banner-left p {
+    color: #0E0E0E;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.card-1 {
+    background-color: #042C54;
+    margin-bottom: 50px;
+    width: 320px;
+    height: 530px;
+    border-top-left-radius: 27px;
+    position: relative;
+}
+.card-date {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 10px;
+}
+.card-text {
+    font-weight: 800;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.card-img-top {
+    width: 320px;
+}
+.article-link-1 {
+    font-weight: 700;
+    font-size: 10px;
+    margin-bottom: 0;
+    position: absolute; 
+    bottom: 15px;
+    left: 15px;
+}
+.article-card-1 {
+    background-color: #042C54;
+    margin-bottom: 30px;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 27px;
+    position: relative;
+}
+.article-card-2 {
+    background-color: #042C54;
+    margin-bottom: 30px;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 27px;
+    position: relative;
+}
+.article-card-3 {
+    background-color: #042C54;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 27px;
+    position: relative;
+}
+.article-card-4 {
+    background-color: #042C54;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 27px;
+    position: relative;
+}
+.article-date {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 10px;
+}
+.article-title {
+    font-weight: 800;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+.article-link-2 {
+    font-weight: 700;
+    font-size: 10px;
+    margin-bottom: 0;
+    padding-left: 5px;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+.article-image {
+    width: 250px;
+}
+.con-1 {
+    margin-top: 80px;
+}
+
+.con-2 {
+    background-color: #031B34;
+    z-index: 30;
+    position: relative;
+    background: initial;
+    width: 100%;
+}
+.con-2 h6 {
+    color:#FFFFFF;
+    font-size: 15px;
+    font-weight: 600;
+}
+.con-2 p {
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 300; 
+}
+.footer-head h1 {
+    background: -webkit-linear-gradient(45deg, #AE67FA, #FF7098, #F49867); 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 42px;
+}
+.request-btn {
+    border: 20px thin #FFFFFF;
+    border-radius: 2px;
+    border-color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    background-color: #031B34;
+    color: #FFFFFF;
+    margin-top: 40px;
+}
+.footer-left h4 {
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 30px;
+}
+.footer-left p {
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 300;
+}
+.footer-bottom{
+    margin-top: 120px;
+}
+.footer-head {
+    margin-top: 120px;
+}
+.rectangle-17 {
+    width: 30px;
+}
+
+@media screen and (max-width: 950px) {
+    .article-card-1,.article-card-3{
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+    .con-2 {
+        margin-top: 50px;
+    }
+    .gradient-banner {
+        flex-direction: column;
+       
+    }
+    .header-right-img,.my-apps-img,.companies-logo {
+        text-align: center;
+        margin-right: 100px;
+        width: 200px;
+        
+    }
+    .header-right-img {
+        height: 300px;
+    }
+    .input-group,.user-visits,.card-1,.card-img-top {
+        width: 300px;
+    }
+    .mask-group {
+        width: 90%;
+    }
+    .header-left {
+        width: 330px;
+    }
+    body {
+        margin: 0;
+    }
+}
